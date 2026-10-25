@@ -266,7 +266,7 @@ footer {
   91 नंतर 10 अंकी मोबाइल नंबर लिही.
   उदाहरण: 919876543210
 */
-const WHATSAPP_NUMBER = "91XXXXXXXXXX";
+const WHATSAPP_NUMBER = "917058293511";
 
 function chooseProduct(name, price) {
     document.getElementById("product").value = name;
